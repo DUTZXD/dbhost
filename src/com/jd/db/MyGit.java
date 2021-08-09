@@ -5,6 +5,7 @@ public class MyGit {
         System.out.println("短视频");
         System.out.println("其它修复代码");
         System.out.println("约饭 修复bug");
+        System.out.println("租房");
         System.out.println("斗地主");
         System.out.println("商城");
         System.out.println("打车");
