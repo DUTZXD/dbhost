@@ -6,6 +6,7 @@ public class MyGit {
         System.out.println("约饭");
         System.out.println("斗地主");
         System.out.println("商城");
+        System.out.println("打车");
         System.out.println("游戏");
     }
 }
