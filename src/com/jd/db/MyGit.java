@@ -12,5 +12,6 @@ public class MyGit {
         System.out.println("游戏");
         System.out.println("直播");
         System.out.println("游戏1");
+        System.out.println("游戏1");System.out.println("游戏1");System.out.println("游戏1");System.out.println("游戏1");System.out.println("游戏1");
     }
 }
